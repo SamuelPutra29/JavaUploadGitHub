@@ -2,7 +2,7 @@ package Percabangan;
 
 import java.util.Scanner;
 
-public class LatihanSwitchCase {
+public class LatihanSwitchCas {
     public static void main(String[] args) {
 
         // deklarasi variabel dan scanner
